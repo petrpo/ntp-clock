@@ -5,7 +5,7 @@
 
 Parts for the project
 - esp8266      - version NodeMCU
-- OLED display - 4 x 12 () 
+- OLED display - 0.91" 128x32 OLED displej, I2C 
 - 4 jumpers
 
 Connections
